@@ -65,7 +65,7 @@ NOVITA_API_KEY = "${novita_api_key}"
 INFINITY_API_KEY = "${infinity_api_key}"
 
 [[config.mounts]]
-file_path = "proxy_server_config.yaml"
+filePath = "proxy_server_config.yaml"
 content = """
 model_list:
 
